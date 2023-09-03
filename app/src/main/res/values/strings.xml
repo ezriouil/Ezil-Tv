@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ezil Tv</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="exit">Exit !?</string>
+    <string name="non">non</string>
+    <string name="oui">Oui</string>
+    <string name="ezil_tv">Ezil Tv</string>
+    <string name="pas_de_connexion">Pas de connexion</string>
+</resources>
